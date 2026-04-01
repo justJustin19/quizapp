@@ -1,6 +1,6 @@
 # Quiz App
 Try to answer as many questions correctly as possible in a row. If you give a wrong answer, you will lose your score. <br/>
-Visit website here: https://justinteks9.github.io/quizapp/
+Visit website here: https://justjustin19.github.io/quizapp/
 
 
 
